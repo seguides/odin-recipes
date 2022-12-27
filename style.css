@@ -1,0 +1,19 @@
+h1 {
+    color:crimson;
+    background-color: beige;
+}
+img {
+    height: auto;
+    width: 600px;
+
+}
+ul {
+    background-color: blue;
+}
+ol {
+    background-color: aqua;
+}
+li {
+    color: brown;
+    background-color: yellow;
+}
